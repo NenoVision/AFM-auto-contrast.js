@@ -1,4 +1,4 @@
-# AFM Auto Contrast – JavaScript Library for Contrast Optimization (TACOM – TM03000033)
+# AFM Auto Contrast – JavaScript Library for Contrast Optimization
 
 ## Automatická optimalizace kontrastu AFM/SEM snímků
 
